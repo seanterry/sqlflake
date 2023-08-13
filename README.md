@@ -1,2 +1,2 @@
-# sqlflake
-Generates sequential GUIDs for databases
+# SqlFlake
+Generates sequential GUIDs for databases.
